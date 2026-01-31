@@ -22,8 +22,8 @@ services:
     #
     # You can define additional environment variables as needed.
     envVars:
-      -key: WEBHOOK_URL
-       value: https://n8n-service-cwp3.onrender.com
+      - key: WEBHOOK_URL
+        value: https://n8n-service-cwp3.onrender.com
       # Generates a base64-encoded key for
       # encrypting credentials in n8n
       #
